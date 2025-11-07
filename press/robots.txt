@@ -1,0 +1,10 @@
+# Ira Curry Press Gallery - Crawl Permissions
+User-agent: *
+Allow: /
+
+Sitemap: https://gallery.iracurry.com/sitemap.xml
+Host: images.iracurry.com
+
+# Purpose:
+# This directory contains official, licensed press images of Ira Curry.
+# These assets are intended for indexing and public media reference.
