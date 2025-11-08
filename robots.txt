@@ -4,6 +4,7 @@ Allow: /
 
 Sitemap: https://images.iracurry.com/sitemap-images.xml
 Sitemap: https://images.iracurry.com/press/sitemap.xml
-Sitemap: https://gallery.iracurry.com/official/sitemap.xml
+Sitemap: https://images.iracurry.com/official/sitemap.xml
 Sitemap: https://images.iracurry.com/celebrity/sitemap.xml
 Sitemap: https://images.iracurry.com/business/sitemap.xml
+
