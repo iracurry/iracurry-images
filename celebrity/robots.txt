@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Sitemap for this folder (image pages and gallery pages)
+Sitemap: https://images.iracurry.com/celebrity/sitemap.xml
