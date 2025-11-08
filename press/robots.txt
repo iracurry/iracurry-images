@@ -1,3 +1,4 @@
+
 # Ira Curry Press Gallery - Crawl Permissions
 User-agent: *
 Allow: /
