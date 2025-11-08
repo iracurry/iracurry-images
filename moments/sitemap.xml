@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Moments Gallery index -->
+  <url>
+    <loc>https://gallery.iracurry.com/moments</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <!-- include a representative image for the index -->
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-most-loved-portrait.jpg</image:loc>
+      <image:title>Most Loved — Ira Curry</image:title>
+    </image:image>
+  </url>
+
+  <!-- Individual image pages -->
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-leadership-launch-2020-promo</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-leadership-launch-2020-promo.jpg</image:loc>
+      <image:title>Leadership Launch</image:title>
+      <image:caption>Ira Curry smiles brightly in official 2020 Leadership Academy promo (Charlotte, NC).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-elevation-leadership-promo</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-elevation-leadership-promo.jpg</image:loc>
+      <image:title>Elevation</image:title>
+      <image:caption>Ira Curry raising his fist with determination during 2020 Leadership Academy promo.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-prince-of-business-2019-houston</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-prince-of-business-2019-houston.jpg</image:loc>
+      <image:title>Prince of Business</image:title>
+      <image:caption>Young Ira Curry kneeling on concrete in downtown Houston (2019).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-vision-ahead-2019-houston</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-vision-ahead-2019-houston.jpg</image:loc>
+      <image:title>Vision Ahead</image:title>
+      <image:caption>Young Ira Curry sitting against a wall in downtown Houston, gazing toward the future.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-ocean-reflections-galveston</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-ocean-reflections-galveston.jpg</image:loc>
+      <image:title>Ocean Reflections</image:title>
+      <image:caption>Ira Curry at Galveston beach — a rare reflective moment.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-the-challenge-hollywood-2020</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-the-challenge-hollywood-2020.jpg</image:loc>
+      <image:title>The Challenge</image:title>
+      <image:caption>Ira Curry preparing for "Zero to Six Figures" in Hollywood, FL (2020).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-christmas-vision-2018</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-christmas-vision-2018.jpg</image:loc>
+      <image:title>Christmas Vision</image:title>
+      <image:caption>Ira Curry in a Christmas blazer inside his Houston penthouse (2018).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-rising-star-2019-houston</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-rising-star-2019-houston.jpg</image:loc>
+      <image:title>Rising Star</image:title>
+      <image:caption>A young Ira Curry posing with arms folded in Houston (2019).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-the-founder-business-celebrity</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-the-founder-business-celebrity.jpg</image:loc>
+      <image:title>The Founder</image:title>
+      <image:caption>Ira Curry as the visionary Founder of the Business Celebrity Industry.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-itribe-message</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-itribe-message.jpg</image:loc>
+      <image:title>iTribe Message</image:title>
+      <image:caption>Ira Curry sharing a selfie with his global supporters.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-red-carpet-arrival-2019</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-red-carpet-arrival-2019.jpg</image:loc>
+      <image:title>Red Carpet Arrival</image:title>
+      <image:caption>Ira Curry on the red carpet at Enginenear Credit Repair grand opening (2019).</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-red-carpet-smile-2019</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-red-carpet-smile-2019.jpg</image:loc>
+      <image:title>Red Carpet Smile</image:title>
+      <image:caption>Ira Curry smiling on the red carpet at his 2019 event.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-early-coach-2018</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-early-coach-2018.jpg</image:loc>
+      <image:title>Early Coach</image:title>
+      <image:caption>Early coaching and consulting days—rare 2018 photo of Ira Curry.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gallery.iracurry.com/moments/ira-curry-most-loved-portrait</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.iracurry.com/moments/ira-curry-most-loved-portrait.jpg</image:loc>
+      <image:title>Most Loved</image:title>
+      <image:caption>The fan-favorite, most loved Ira Curry portrait.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
