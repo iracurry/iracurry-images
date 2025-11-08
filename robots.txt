@@ -1,4 +1,7 @@
+
 User-agent: *
 Allow: /
 
 Sitemap: https://images.iracurry.com/sitemap-images.xml
+Sitemap: https://images.iracurry.com/press/sitemap.xml
+Sitemap: https://images.iracurry.com/celebrity/sitemap.xml
