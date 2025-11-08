@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gallery.iracurry.com/official/sitemap.xml
+Sitemap: https://images.iracurry.com/official/sitemap.xml
