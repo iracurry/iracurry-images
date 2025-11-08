@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://images.iracurry.com/moments/sitemap.xml
