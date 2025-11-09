@@ -8,3 +8,4 @@ Sitemap: https://images.iracurry.com/official/sitemap.xml
 Sitemap: https://images.iracurry.com/celebrity/sitemap.xml
 Sitemap: https://images.iracurry.com/business/sitemap.xml
 Sitemap: https://images.iracurry.com/moments/sitemap.xml
+Sitemap: https://images.iracurry.com/origins/sitemap.xml
